@@ -9,4 +9,4 @@ Attached are two files - Documentation, PowerBI vizualization
 Documentation - https://github.com/adi1988/Interactive-Dashboard-for-Profits-Headcounts-Assets-and-Revenues/blob/main/Creating%20a%20Single%20Interactive%20Dashboard%20for%20Profits%2C%20Headcounts%2C%20Assets%20and%20Revenues%20.pdf
 
 PowerBI - https://github.com/adi1988/Interactive-Dashboard-for-Profits-Headcounts-Assets-and-Revenues/blob/main/Interactive%20Dashboard%20for%20Profits%2C%20Headcounts%2C%20Assets%20and%20Revenues.pbix
-
+(need to have PowerBI installed and then view raw/download in PowerBI)
