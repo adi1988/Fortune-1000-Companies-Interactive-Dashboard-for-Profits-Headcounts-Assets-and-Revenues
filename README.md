@@ -86,8 +86,16 @@ concat_dframe.to_excel('Fortune1000_concatinated.xlsx')
 
 
 
-## Attached are three files
-Documentation, PowerBI vizualization, Line Graphs
+## Attached are four files
+
+Documentation (Line Graphs), PowerBI Line Graphs
+Documentation, PowerBI vizualization
+
+### Documentation (Line Graphs)
+https://github.com/adi1988/Interactive-Dashboard-for-Profits-Headcounts-Assets-and-Revenues/blob/main/Python-%20Pandas%20Script%20for%20Line%20Graphs.pdf
+
+### PowerBI (Line Graphs)
+https://github.com/adi1988/Interactive-Dashboard-for-Profits-Headcounts-Assets-and-Revenues/blob/main/Fortune%201000%202018-2022%20(line%20graphs).pbix
 
 ### Documentation
 https://github.com/adi1988/Interactive-Dashboard-for-Profits-Headcounts-Assets-and-Revenues/blob/main/Creating%20a%20Single%20Interactive%20Dashboard%20for%20Profits%2C%20Headcounts%2C%20Assets%20and%20Revenues%20.pdf
