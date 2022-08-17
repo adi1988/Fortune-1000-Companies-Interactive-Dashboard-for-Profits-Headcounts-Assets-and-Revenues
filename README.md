@@ -35,6 +35,7 @@ import numpy as np
 from pandas import Series,DataFrame
 
 #### Downloaded the excel tables for 2018-2022 companies
+
 Fortune1000dataset = pd.ExcelFile('Fortune_1000_2018_2022_companies_data.xlsx')
 
 dframe2022 = Fortune1000dataset.parse('2022')
@@ -44,6 +45,7 @@ dframe2019 = Fortune1000dataset.parse('2019')
 dframe2018 = Fortune1000dataset.parse('2018')
 
 #### Sorted Years into each so could subsequently concat to get a single dataset and vizualize by year in linegraphs
+
 dframe2022['Year'] = 2022
 dframe2021['Year'] = 2021
 dframe2020['Year'] = 2020
@@ -51,6 +53,7 @@ dframe2019['Year'] = 2019
 dframe2018['Year'] = 2018
 
 #### To check if the structure of the dataframes are correct
+
 dframe2022.head()
 dframe2021.head()
 dframe2020.head()
@@ -60,6 +63,7 @@ dframe2018.head()
 concat_dframe = pd.concat([dframe2018,dframe2019,dframe2020,dframe2021,dframe2022], ignore_index = True)
 
 concat_dframe.sort_values('Company Name',ascending=True)
+
 
 #### Export back into excel to get a final concatinated dataset which can then be imported into PowerBI
 concat_dframe.to_excel('Fortune1000_concatinated.xlsx')
