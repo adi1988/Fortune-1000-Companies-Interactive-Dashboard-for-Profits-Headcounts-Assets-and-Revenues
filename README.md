@@ -1,4 +1,4 @@
-# Fortune 1000 Companies Interactive-Dashboard-for-Profits-Headcounts-Assets-and-Revenues
+# Fortune 1000 Companies Interactive Dashboard for Profits Headcounts Assets and Revenues
 
 Documentation page given along with this which gives an explanation of the dashboard
 
